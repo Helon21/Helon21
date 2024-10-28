@@ -5,8 +5,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Helon21&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Helon21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <div class="tenor-gif-embed" data-postid="5744134865032659421" data-share-method="host" data-aspect-ratio="1.36813" data-width="100%"><a href="https://tenor.com/view/kita-ikuyo-onk-ruby-ikuyo-ikuyo-kita-gif-5744134865032659421">Kita Ikuyo Onk GIF</a>from <a href="https://tenor.com/search/kita+ikuyo-gifs">Kita Ikuyo GIFs</a></div> 
-  <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <div class="tenor-gif-embed" data-postid="5744134865032659421" data-share-method="host" data-aspect-ratio="1.36813" data-width="100%"><a href="https://tenor.com/view/kita-ikuyo-onk-ruby-ikuyo-ikuyo-kita-gif-5744134865032659421">Kita Ikuyo Onk GIF</a>from <a href="https://tenor.com/search/kita+ikuyo-gifs">Kita Ikuyo GIFs</a></div>
 </div>
 
 ###
