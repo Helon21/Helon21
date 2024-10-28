@@ -38,6 +38,6 @@
 
 ###
 
-<img src="https://media1.tenor.com/images/T7dEOdw1Qd0AAAAC/kita-ikuyo-onk.gif" alt="Kita Ikuyo Onk GIF" />
+<img src="https://media.tenor.com/T7dEOdw1Qd0AAAAC/kita-ikuyo-onk.gif" alt="Kita Ikuyo Onk GIF" />
 
 ###
