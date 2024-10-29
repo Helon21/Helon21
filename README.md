@@ -5,7 +5,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Helon21&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Helon21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://media.tenor.com/T7dEOdw1Qd0AAAAC/kita-ikuyo-onk.gif" alt="Kita Ikuyo Onk GIF" width="150" />
 </div>
 
 ###
@@ -36,5 +35,7 @@
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   </a>
 </div>
+
+<img src="https://media.tenor.com/T7dEOdw1Qd0AAAAC/kita-ikuyo-onk.gif" alt="Kita Ikuyo Onk GIF" width="230" />
 
 ###
