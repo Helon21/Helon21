@@ -41,6 +41,4 @@
   </a>
 </div>
 
-<img src="https://media.tenor.com/T7dEOdw1Qd0AAAAC/kita-ikuyo-onk.gif" alt="Kita Ikuyo Onk GIF" width="230" />
-
 ###
