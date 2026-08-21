@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Helon21&theme=dracula" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Helon21&layout=compact&card_width=320&langs_count=5&theme=dracula" height="150" alt="languages graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Helon21&theme=dracula" height="150" alt="stats summary" />
 </div>
 
 ###
