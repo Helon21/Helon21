@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Helon21&theme=dracula" height="150" alt="streak graph" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Helon21&theme=dracula" height="150" alt="stats summary" />
+  <img src="https://raw.githubusercontent.com/Helon21/Helon21/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ###
