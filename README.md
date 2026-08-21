@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Helon Xavier, i'm a studying software engineer.</h2>
+<h2 align="left">Hi 👋! My name is Helon Xavier, I'm a Software Engineer with a Bachelor's degree.</h2>
 
 ###
 
